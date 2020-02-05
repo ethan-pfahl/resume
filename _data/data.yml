@@ -47,85 +47,61 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Ethan does demo things...
+      Safety-conscious professional with 10 years of experience with increasing responsibility in the construction and demolition industry. Apprenticeship-trained and longstanding member of Local 242, committed to and a strong advocate for union affiliation and representation. 
 
 
 education:
-    - degree: Some BA (Bad Ass) Degree
-      university: Demoversity
-      time: Since the beginning
+    - degree: Apprenticeship
+      university: NWETT: Northwest Laborers - Kingston, WA
+      time: 4,000 Hours
+    - diploma: Some BA (Bad Ass) Degree
+      school: Cedarchrest High School
+      time: June 2009
 
 experiences:
-    - role: Senior Software Engineer
-      time: January 2019 - Present
-      company: Savers | Value Village
+    - role: Laborer Foreman
+      time: September 2019 - Present
+      company: American Bridge
       details: |
-        Works on a close-knit and collaborative engineering team while evangelizing agile
-        principles to the organization. Zachary has worked closely in cross-team development to
-        assist in building a "One IT" culture. He also supports the business with travel to destination
-        stores to setup and trains new applications.
+        <Ethan I need info for this>
         
         _Accomplishments_
-          -	Transformed a monolithic legacy solution into a clean microservice architecture.
-          - Developed a slew of custom applications that reinvented the production line.
-          - Worked on multiple projects at once across multiple teams.
+          -	Coordinates and manages all laborer activities for the SR520 project
+          - Meets project deadlines and major milestones
+          - Managed job site logistics and demolition quality assurance
+          - Collaborates with third party environmental scientist to ensure lake protection
+          - Actively participates in daily foreman meetings
+          - Conducts daily crew safety meetings
+          - Reviews plans, drawings, and contracts for accuracy and efficient project execution
+          - Monitors employee performance to determine areas of success and improvement
+          - Supervises, mentors, and trains crew of 12 laborers
+          - Oversees and conducts heavy rigging operations
+          - Responsible for safety paperwork and crew payroll submission
 
-    - role: Software Development Engineer
-      time: October 2016 - January 2019
-      company: iTrellis LLC
+
+    - role: Superintenent
+      time: August 2010 - September 2019
+      company: NortherStar CG, LP
       details: |
-        Zachary worked in both silo and team projects delivering proficient, requirement
-        driven software solutions. He has displayed quickness on his feet in the adaption
-        and understanding of new software tools and frameworks.
+        <Ethan I need info for this>
         
         _Accomplishments_
-          - Migrated on-premises accounting (inventory, sales, payroll) 
-            to Microsoft AX Dynamics in Azure using point-to-point 
-            integrations developed with MuleSoft
-          - Integrated emarsys, "[...] largest independent marketing platform company in the world", 
-            into loyalty and management platforms
-          - Leveraged Azure's CI/CD pipeline utilizing ARM template deployments
-          - Utilized MuleSoft and/or .NET Core for multiple API-led connectivity applications
-
-    - role: Software Development Team Lead
-      time: October 2015 - October 2016
-      company: Lowe's Companies, Inc.
-      details: |
-        Lowe's acquired ATG in 2012. In October of 2015 Lowe's officially on-boarded the ATG development team. 
-        Zachary continued to fulfill the same role he did while an ATG employee.
-        
-        _Accomplishments_
-          -	Led a team dedicated to top priority issues
-          -	First responder to critical production defects
-          -	Team was served high priority/impact projects
-          -	Maintained an eCommerce checkout solution
-          - Practiced agile scrum methodologies
-          - Supported release management
-          - Collaborated with other teams and clients
-
-
-    - role: Junior Software Developer
-      time: November 2014 - October 2015
-      company: ATG Stores
-      details: |
-        .NET Developer on an "eCommerce Checkout Process" development team. Our team is 
-        dedicated to the continuous improvement, security, and maintenance 
-        of this platform on multiple online sites. We utilize an agile scrum use 
-        proficiency in C#, JavaScript, SQL, AJAX, Git, etc.
-          
-        _Accomplishments_
-          -	Integrated MasterPass
-          -	Built a Lexus Nexus authentication platform
-          -	Quickly learned the company’s software stack
-          -	Moved several VB applications to a .NET 3.5+ C# framework
+          - Successfully supervised and oversaw work on 16 demolition projects with revenue values in excess of $25 million
+          - Managed a crew of 80 laborers for Hurricane Harvey emergency relief response with NorthStar Recovery Services Division for 6.5 months in Houston, TX
+          - Demonstrated project planning to include job walks and detailed print evaluation
+          - Supervised project laborers and operators
+          - Oversaw project daily tracking, manpower allocation, and crew payroll
+          - Collaborated and established effective partnerships with general contractors and subcontractors
+          - Full-charge responsibility for all project logistics
+          - Executed projects on schedule and on-budget
+          - Supported crew new hire on-boarding, safety orientation, and job training
 
 skills:
     title: Skills &amp; Proficiency
-    languages: "C#, Java, TypeScript, JavaScript, VB, SQL"
-    frameworks: ".NET / CORE, Angular, MuleSoft, ARM"
-    tools: "Windows, Mac OS, Visual Studio, VS Code, Anypoint Studio, Agile, Scrum, SAFe"
-    operations: "CICD, Azure Devops, Atlassian Jira, Jenkins, Atlassian Bamboo"
-    other: "Git, Azure, SQL Server"
+    management: "Crew Supervision, Project Logistics, Building and Execution of Project Schedules"
+    personal: "Resourceful Problem Solving, Strict Time Management, Persuasive Negotiation, Contractor Collaboration"
+    safety: "OSHA 30 certified"
+    tools: "Microsoft Word, Microsoft Excel, Microsoft Project"
 
 #footer: >
     #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
