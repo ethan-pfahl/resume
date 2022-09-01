@@ -60,8 +60,16 @@ education:
       time: 2009-2012
 
 experiences:
+    - role: Princiapl Software Engineer
+      time: March 2022 - Present
+      company: Savers | Value Village
+      details: |
+        Zachary has stepped into the lead engineer role on the enterprise-wide initiative of building an in house 
+        Inventory Management Suite. He continues to take pride in the collaboration of architectural decisions and
+        optimizing business operations with software.
+
     - role: Senior Software Engineer
-      time: January 2019 - Present
+      time: January 2019 - March 2022
       company: Savers | Value Village
       details: |
         Works on a close-knit and collaborative engineering team while evangelizing agile
@@ -72,7 +80,9 @@ experiences:
         _Accomplishments_
           -	Transformed a monolithic legacy solution into a clean microservice architecture.
           - Developed a slew of custom applications that reinvented the production line.
-          - Worked on multiple projects at once across multiple teams.
+          - Built enterprise-wide Inventory Management Suite.
+          - Integrated RFID technology into IoT Edge solutions for inventory management.
+          - Created IoT device provisioning application for seamless hands-off IoT device registration and subscription.
 
     - role: Software Development Engineer
       time: October 2016 - January 2019
